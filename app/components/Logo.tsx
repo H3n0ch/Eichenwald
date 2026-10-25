@@ -2,7 +2,7 @@
 export function Bildmarke({ className = "" }: { className?: string }) {
   return (
     <svg viewBox="0 0 64 64" fill="none" aria-hidden className={className}>
-      <path d="M12 50V22h18v28M12 22v-7h12v7 M34 50V20h18v30M40 20v-7h12v7 M7 50h50" stroke="#b08d57" strokeWidth="2.2" strokeLinejoin="miter" />
+      <path d="M12 50V22h18v28M12 22v-7h12v7 M34 50V22h18v28M40 22v-7h12v7 M7 50h50" stroke="#b08d57" strokeWidth="2.2" strokeLinejoin="miter" />
       <g fill="#b08d57">
         <rect x="16" y="27" width="3" height="4" />
         <rect x="23" y="27" width="3" height="4" />
@@ -10,12 +10,12 @@ export function Bildmarke({ className = "" }: { className?: string }) {
         <rect x="23" y="34" width="3" height="4" />
         <rect x="16" y="41" width="3" height="4" />
         <rect x="23" y="41" width="3" height="4" />
-        <rect x="38" y="25" width="3" height="4" />
-        <rect x="45" y="25" width="3" height="4" />
-        <rect x="38" y="32" width="3" height="4" />
-        <rect x="45" y="32" width="3" height="4" />
-        <rect x="38" y="39" width="3" height="4" />
-        <rect x="45" y="39" width="3" height="4" />
+        <rect x="38" y="27" width="3" height="4" />
+        <rect x="45" y="27" width="3" height="4" />
+        <rect x="38" y="34" width="3" height="4" />
+        <rect x="45" y="34" width="3" height="4" />
+        <rect x="38" y="41" width="3" height="4" />
+        <rect x="45" y="41" width="3" height="4" />
       </g>
     </svg>
   );

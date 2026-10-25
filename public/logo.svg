@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 80">
   <rect width="420" height="80" fill="#2c4862"/>
   <g transform="translate(12 8)">
-    <path d="M12 50V22h18v28M12 22v-7h12v7 M34 50V20h18v30M40 20v-7h12v7 M7 50h50" fill="none" stroke="#b08d57" stroke-width="2.2"/>
-    <g fill="#b08d57"><rect x="16" y="27" width="3" height="4"/><rect x="23" y="27" width="3" height="4"/><rect x="16" y="34" width="3" height="4"/><rect x="23" y="34" width="3" height="4"/><rect x="16" y="41" width="3" height="4"/><rect x="23" y="41" width="3" height="4"/><rect x="38" y="25" width="3" height="4"/><rect x="45" y="25" width="3" height="4"/><rect x="38" y="32" width="3" height="4"/><rect x="45" y="32" width="3" height="4"/><rect x="38" y="39" width="3" height="4"/><rect x="45" y="39" width="3" height="4"/></g>
+    <path d="M12 50V22h18v28M12 22v-7h12v7 M34 50V22h18v28M40 22v-7h12v7 M7 50h50" fill="none" stroke="#b08d57" stroke-width="2.2"/>
+    <g fill="#b08d57"><rect x="16" y="27" width="3" height="4"/><rect x="23" y="27" width="3" height="4"/><rect x="16" y="34" width="3" height="4"/><rect x="23" y="34" width="3" height="4"/><rect x="16" y="41" width="3" height="4"/><rect x="23" y="41" width="3" height="4"/><rect x="38" y="27" width="3" height="4"/><rect x="45" y="27" width="3" height="4"/><rect x="38" y="34" width="3" height="4"/><rect x="45" y="34" width="3" height="4"/><rect x="38" y="41" width="3" height="4"/><rect x="45" y="41" width="3" height="4"/></g>
   </g>
   <text x="86" y="44" font-family="Cormorant Garamond, Georgia, serif" font-size="30" letter-spacing="7" fill="#ffffff">EICHWALDWEG</text>
   <text x="88" y="62" font-family="Helvetica, Arial, sans-serif" font-size="10" letter-spacing="5" fill="#b08d57">31–33 · OFFENBACH</text>
