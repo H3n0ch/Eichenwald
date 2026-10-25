@@ -24,7 +24,7 @@ export type Bild = { src: string; alt: string; hoch?: boolean };
 
 export const BILDER: Record<string, Bild> = {
   aussen1: { src: "/b2429893-1bfd-4783-9e52-9d43f6d76c50.jpg", alt: "Neubau Eichwaldweg mit Gärten und Terrassen" },
-  aussen2: { src: "/f3e462f5-ccbd-44f0-b3c3-7921aa1e06e7.jpg", alt: "Fassade mit Balkonen und Innenhof" },
+  aussen2: { src: "/innenhof.jpg", alt: "Fassade mit Balkonen und Innenhof" },
   wohnenLeer: { src: "/1.jpg", alt: "Wohn- und Essbereich Penthouse mit Abendsonne" },
   wohnenMoebliert: { src: "/2.jpg", alt: "Wohnbereich Penthouse" },
   kueche: { src: "/3.jpg", alt: "Offene Küche mit Wohnbereich" },
