@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Logo from "./Logo";
 
 // Über dem Hero transparent, beim Scrollen schieferblau mit Blur.
 export default function Header({ nav }: { nav: string[][] }) {
@@ -20,8 +21,8 @@ export default function Header({ nav }: { nav: string[][] }) {
       }`}
     >
       <div className="mx-auto flex max-w-7xl items-center justify-between px-5">
-        <a href="#" className="font-serif text-base uppercase tracking-[0.2em] sm:text-lg sm:tracking-[0.3em]">
-          Eichwaldweg <span className="text-gold">31–33</span>
+        <a href="#" aria-label="Eichwaldweg 31–33 – nach oben">
+          <Logo />
         </a>
         <nav className="hidden gap-9 text-[11px] uppercase tracking-[0.22em] text-white/85 lg:flex">
           {nav.map(([href, label]) => (

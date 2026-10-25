@@ -2,6 +2,7 @@ import ProtectedImage from "./components/ProtectedImage";
 import Gallery from "./components/Gallery";
 import ContactForm from "./components/ContactForm";
 import Header from "./components/Header";
+import Logo from "./components/Logo";
 import Reveal from "./components/Reveal";
 import StickyCta from "./components/StickyCta";
 import {
@@ -605,9 +606,9 @@ export default function Home() {
 
       <footer className="bg-brand-dark pb-28 pt-20 text-sm text-white/60 md:pb-12">
         <div className="mx-auto max-w-7xl px-5">
-          <p className="font-serif text-3xl uppercase tracking-[0.15em] text-white sm:text-4xl md:text-6xl md:tracking-[0.2em]">
-            Eichwaldweg <span className="text-gold">31–33</span>
-          </p>
+          <div className="text-white">
+            <Logo gross />
+          </div>
           <div className="mt-14 grid gap-10 border-t border-white/15 pt-10 md:grid-cols-3">
             <div className="space-y-1">
               <p className="mb-3 text-[10px] uppercase tracking-[0.25em] text-white/40">Kontakt</p>
